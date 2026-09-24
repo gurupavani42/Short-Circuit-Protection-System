@@ -1,1 +1,0 @@
-# Short-Circuit-Protection-System
